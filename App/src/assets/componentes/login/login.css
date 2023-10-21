@@ -1,0 +1,13 @@
+*{
+    background-color: #92e27a;
+}
+.container{
+    height: 100vh;
+}
+
+.login-container{
+    border-radius: 50px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 1px black;
+}
+
